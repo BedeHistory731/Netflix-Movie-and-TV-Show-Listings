@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:title>Netflix Movies and TV Shows</dc:title>
+<dc:creator>Shivam Bansal</dc:creator>
+<dc:subject>Movies and TV Shows listings on Netflix</dc:subject>
+<dc:description>A hosted version of Shivam Bansal's data set of Netflix's current movie and tv show listings. Currently operating version 4.0 of Bansal's data set.</dc:description>
+<dc:publisher>Kaggle</dc:publisher>
+<dc:contributor>Shivam Bansal</dc:contributor>
+<dc:date> 2021-01-18</dc:date>
+<dc:type>Dataset</dc:type>
+<dc:format>csv</dc:format>
+<dc:identifier>netflix_titles.csv</dc:identifier>
+<dc:source>https://www.kaggle.com/shivamb/netflix-shows</dc:source>
+<dc:language>English</dc:language>
+<dc:rights>CC0: Public Domain</dc:rights>
